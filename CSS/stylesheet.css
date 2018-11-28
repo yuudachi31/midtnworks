@@ -1,0 +1,132 @@
+.mylink{
+    cursor: pointer;
+}
+a{
+    color:antiquewhite;
+    text-decoration:none;
+}
+body{background-color: #5b7984;}
+.screen1{
+   display: flex;
+   justify-content: center;
+   
+  
+}
+.bgi1{
+
+}
+.aboutme{
+    position: absolute;
+    left: 35%;
+    top: 20%;
+    border: 1px solid antiquewhite;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-top: 8px;
+   padding-bottom: 8px;
+    font-size: 30px;
+    color: antiquewhite;
+    border-radius: 12px;
+    display: inline-block;
+   width: 9%;
+   max-width: 105px ;
+   min-width: 30px ;
+   text-decoration:none;
+   
+}
+.exp{
+    position: absolute;
+    left: 25%;
+    top: 45%;
+    border: 1px solid antiquewhite;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 30px;
+    color: antiquewhite;
+    border-radius: 12px;
+    display: inline-block;
+   width: 9%;
+   max-width: 74px ;
+   min-width: 24px ;
+   text-decoration:none;
+}
+.works{   
+        position: absolute;
+        left: 24%;
+        top: 75%;
+        border: 1px solid antiquewhite;
+       padding-left: 30px;
+       padding-right: 30px;
+       padding-top: 8px;
+       padding-bottom: 8px;
+        font-size: 30px;
+        color: antiquewhite;
+        border-radius: 12px;
+        display: inline-block;
+       width: 9%;
+       max-width: 105px ;
+       min-width: 30px ;
+       text-decoration:none;
+}
+.skill{
+  position: absolute;
+    left: 36%;
+    top: 99%;
+    border: 1px solid antiquewhite;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 30px;
+    color: antiquewhite;
+    border-radius: 12px;
+    display: inline-block;
+   width: 9%;
+   max-width: 74px ;
+   min-width: 24px ;
+   text-decoration:none;
+}
+.ASide{
+    position: absolute;
+    right: 17%;
+    background-color: #fff ;
+    width: 15%;
+    opacity: 0.4;
+    height: 125%;
+    top: 0px;
+}
+.Title{
+    position: absolute;
+display: flex;
+flex-direction: column;
+top:8%;
+right: 22%;
+font-size: 60px;
+}
+
+.FBicon{
+width:70px ;
+height: 70px;
+padding-bottom: 20px;
+position: absolute;
+top: 83%;
+right: 22%;
+}
+.IGicon{
+    position: absolute;
+    top: 100%;
+    right: 22%;
+    width:70px ;
+    height: 70px;
+}
+
+
+
+
+
+/*=========================================================== About me ================================================*/
+
+
+
